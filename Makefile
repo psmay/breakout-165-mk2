@@ -1,5 +1,5 @@
 
-PROJECT=breakout-alt-165-mk2
+PROJECT=breakout-165-mk2
 SCHEMATIC_X=schematic
 LAYOUT_X=layout
 LAYOUT_TOP_X=$(LAYOUT_X)-top
